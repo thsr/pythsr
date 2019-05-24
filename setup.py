@@ -7,7 +7,7 @@ with open(path.join(this_directory, 'README.md')) as f:
 
 setuptools.setup(
     name='pythsr',
-    version='0.5',
+    version='0.6',
     description='A collection of python utils for personal use',
     long_description=long_description,
     long_description_content_type='text/markdown',
